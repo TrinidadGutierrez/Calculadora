@@ -8,6 +8,7 @@
 
     <Grid>
         <Grid.RowDefinitions>
-    </Grid.RowDenition Height=" "*"/>
+        </Grid.RowDenition Height=" "*"/>
+    </Grid>
 
 </ContentPage>
